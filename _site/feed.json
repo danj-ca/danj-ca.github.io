@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://danj.micro.blog/2017/09/02/the-corollary-to.html",
+	      	
+			"content_html": "<p>The corollary to (2) being, since Marley Spoon gives you the spices they think should go in their recipe, you should add your own. </p>\n",
+			"date_published": "2017-09-02T22:30:00+10:00",
+			"url": "http://feed.danj.ca/2017/09/02/the-corollary-to.html"
+		},
+		
+		{
 			"id": "http://danj.micro.blog/2017/09/02/tried-my-first.html",
 	      	
 			"content_html": "<p>Tried my first <a href=\"[marleyspoon.com](https://marleyspoon.com)\">Marley Spoon</a> recipe today, discovered,</p>\n\n<ol>\n  <li>Should have just cooked rice the way I have for a decade instead of following their directions</li>\n  <li>Always use more spices than a recipe says.</li>\n</ol>\n\n",
