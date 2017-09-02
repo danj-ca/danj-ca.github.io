@@ -1,0 +1,17 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Dan J",
+	"home_page_url": "http://feed.danj.ca/",
+	"feed_url": "http://feed.danj.ca/feed.json",
+	"items": [
+		
+		{
+			"id": "http://danj.micro.blog/2017/09/02/i-am-incapable.html",
+	      	
+			"content_html": "<p>I am incapable of starting any online-publishing venture with other than the following:</p>\n\n<p><em>Hello, World</em></p>\n",
+			"date_published": "2017-09-02T22:10:00+10:00",
+			"url": "http://feed.danj.ca/2017/09/02/i-am-incapable.html"
+		}
+		
+	]
+}
