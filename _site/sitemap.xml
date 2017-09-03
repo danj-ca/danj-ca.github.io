@@ -3,6 +3,21 @@
   
     
     <url>
+      <loc>http://feed.danj.ca/2017/09/03/broken-link-that.html/</loc>
+      
+        <lastmod>2017-09-03T16:08:00+10:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.7</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>http://feed.danj.ca/2017/09/03/so-among-the.html/</loc>
       
         <lastmod>2017-09-03T15:47:00+10:00</lastmod>
@@ -114,7 +129,7 @@
     <url>
       <loc>http://feed.danj.ca/feed.xml</loc>
       
-        <lastmod>2017-09-03T15:47:55+10:00</lastmod>
+        <lastmod>2017-09-03T16:08:03+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -129,7 +144,7 @@
     <url>
       <loc>http://feed.danj.ca/</loc>
       
-        <lastmod>2017-09-03T15:47:55+10:00</lastmod>
+        <lastmod>2017-09-03T16:08:03+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -146,7 +161,7 @@
     <url>
       <loc>http://feed.danj.ca/rsd.xml</loc>
       
-        <lastmod>2017-09-03T15:47:55+10:00</lastmod>
+        <lastmod>2017-09-03T16:08:03+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -163,7 +178,7 @@
     <url>
       <loc>http://feed.danj.ca/about/</loc>
       
-        <lastmod>2017-09-03T15:47:55+10:00</lastmod>
+        <lastmod>2017-09-03T16:08:03+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
