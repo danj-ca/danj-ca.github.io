@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://danj.micro.blog/2017/09/03/if-this-topic.html",
+	      	
+			"content_html": "<p>If this topic interests you, and assuming fbook even shows you this post (<em>spit</em>), let me know. Happy to discuss. :)</p>\n",
+			"date_published": "2017-09-03T16:10:00+10:00",
+			"url": "http://feed.danj.ca/2017/09/03/if-this-topic.html"
+		},
+		
+		{
+			"id": "http://danj.micro.blog/2017/09/03/i-like-that.html",
+	      	
+			"content_html": "<p>I like that, because if one of those advertising companies goes out of business, or just plain decides my post doesn’t fit their algorithm, I’ve still got a link I can send anyone and they can go look at it.</p>\n\n<p>This is why phrases like the “open web” and “net neutrality” matter.</p>\n",
+			"date_published": "2017-09-03T16:09:00+10:00",
+			"url": "http://feed.danj.ca/2017/09/03/i-like-that.html"
+		},
+		
+		{
 			"id": "http://danj.micro.blog/2017/09/03/broken-link-that.html",
 	      	
 			"content_html": "<p>Broken link that previous post: <a href=\"https://micro.blog\">micro.blog</a></p>\n\n<p>You can see this post has a canonical URL at a domain I control: danj.ca. So I can make quick, Twitter/Instagram-like posts from my own, and they can be syndicated here, but the content is mine.</p>\n",
