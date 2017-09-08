@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://danj.micro.blog/2017/09/08/have-i-been.html",
+	      	
+			"content_html": "<p>Have I been listening to The Fame Monster while drinking wine all evening?</p>\n\n<p>You’re goddamn right I have. </p>\n",
+			"date_published": "2017-09-08T20:46:00+10:00",
+			"url": "http://feed.danj.ca/2017/09/08/have-i-been.html"
+		},
+		
+		{
 			"id": "http://danj.micro.blog/2017/09/06/when-youre-feeling.html",
 	      	
 			"content_html": "<p>When you’re feeling low, it’s amazing what your first meal &amp; coffee of the day can do. </p>\n\n<p>This is why the first thing elderly-mother stereotypes ask is always, “have you eaten?”</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>…this iPhone app has a ways to go: I can access my photo library but not my camera? 🤔</p>\n",
 			"date_published": "2017-09-02T22:31:00+10:00",
 			"url": "http://feed.danj.ca/2017/09/02/this-iphone-app.html"
-		},
-		
-		{
-			"id": "http://danj.micro.blog/2017/09/02/the-corollary-to.html",
-	      	
-			"content_html": "<p>The corollary to (2) being, since Marley Spoon gives you the spices they think should go in their recipe, you should add your own. </p>\n",
-			"date_published": "2017-09-02T22:30:00+10:00",
-			"url": "http://feed.danj.ca/2017/09/02/the-corollary-to.html"
 		}
 		
 	]
