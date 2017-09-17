@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://danj.micro.blog/2017/09/17/i-remember-you.html",
+	      	
+			"content_html": "<blockquote>\n  <p>I remember you well in the Chelsea Hotel / You were famous, your heart was a legend / You told me again you prefer handsome men / But for me you would make an exception </p>\n</blockquote>\n",
+			"date_published": "2017-09-17T21:59:00+10:00",
+			"url": "http://feed.danj.ca/2017/09/17/i-remember-you.html"
+		},
+		
+		{
 			"id": "http://danj.micro.blog/2017/09/08/have-i-been.html",
 	      	
 			"content_html": "<p>Have I been listening to The Fame Monster while drinking wine all evening?</p>\n\n<p>You’re goddamn right I have. </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>That does not look like a real photograph, I wonder if she actually approved this collaboration or if they did it all in Photoshop? 🤔</p>\n\n<p><img src=\"http://feed.danj.ca/uploads/2017/880d0d213d.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-09-02T22:33:00+10:00",
 			"url": "http://feed.danj.ca/2017/09/02/that-does-not.html"
-		},
-		
-		{
-			"id": "http://danj.micro.blog/2017/09/02/this-iphone-app.html",
-	      	
-			"content_html": "<p>…this iPhone app has a ways to go: I can access my photo library but not my camera? 🤔</p>\n",
-			"date_published": "2017-09-02T22:31:00+10:00",
-			"url": "http://feed.danj.ca/2017/09/02/this-iphone-app.html"
 		}
 		
 	]
