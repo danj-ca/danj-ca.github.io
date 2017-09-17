@@ -3,6 +3,21 @@
   
     
     <url>
+      <loc>http://feed.danj.ca/2017/09/17/i-remember-you.html/</loc>
+      
+        <lastmod>2017-09-17T21:59:00+10:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.7</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>http://feed.danj.ca/2017/09/08/have-i-been.html/</loc>
       
         <lastmod>2017-09-08T20:46:00+10:00</lastmod>
@@ -204,7 +219,7 @@
     <url>
       <loc>http://feed.danj.ca/feed.xml</loc>
       
-        <lastmod>2017-09-08T20:46:36+10:00</lastmod>
+        <lastmod>2017-09-17T21:59:13+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -219,7 +234,7 @@
     <url>
       <loc>http://feed.danj.ca/</loc>
       
-        <lastmod>2017-09-08T20:46:36+10:00</lastmod>
+        <lastmod>2017-09-17T21:59:13+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -236,7 +251,7 @@
     <url>
       <loc>http://feed.danj.ca/rsd.xml</loc>
       
-        <lastmod>2017-09-08T20:46:36+10:00</lastmod>
+        <lastmod>2017-09-17T21:59:13+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -253,7 +268,7 @@
     <url>
       <loc>http://feed.danj.ca/about/</loc>
       
-        <lastmod>2017-09-08T20:46:36+10:00</lastmod>
+        <lastmod>2017-09-17T21:59:13+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
