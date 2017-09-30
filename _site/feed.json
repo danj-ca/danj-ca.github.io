@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://danj.micro.blog/2017/09/30/the-verb-is.html",
+	      	
+			"content_html": "<blockquote>\n  <p>The verb is writing. The format and medium are new, but the craft is ancient.</p>\n</blockquote>\n\n<p>From <a href=\"https://daringfireball.net/2009/03/obsession_times_voice\">one of my all-time favourite pieces of inspiration</a>.</p>\n",
+			"date_published": "2017-09-30T18:43:00+10:00",
+			"url": "http://feed.danj.ca/2017/09/30/the-verb-is.html"
+		},
+		
+		{
 			"id": "http://danj.micro.blog/2017/09/30/so-wait-is.html",
 	      	
 			"content_html": "<p>So… wait. Is the difference real, or only in your imagination? 🤔</p>\n\n<p><img src=\"http://feed.danj.ca/uploads/2017/9325280669.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>So among the reasons I’m no Facebook fan is my desire to control and own the words I publish and share on the internet. I’m a supporter of the <a href=\"https://indieweb.org/\">IndieWeb</a>, but, then again, I can build and host my own websites, so it’s easy to be.</p>\n\n<p>Here’s a tool that makes owning your content a bit more accessible: [micro.blog][]. I backed the Kickstarter and am playing around with the service.</p>\n",
 			"date_published": "2017-09-03T15:47:00+10:00",
 			"url": "http://feed.danj.ca/2017/09/03/so-among-the.html"
-		},
-		
-		{
-			"id": "http://danj.micro.blog/2017/09/03/moving-from-winnipeg.html",
-	      	
-			"content_html": "<p>Moving from Winnipeg to Vancouver it was like, wow, there’s great coffee everywhere!</p>\n\n<p>Must admit, Vancouver’s got nothing on Sydney. #picsofmyfood #☕️ </p>\n\n<p><img src=\"http://feed.danj.ca/uploads/2017/078f430197.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-09-03T10:20:00+10:00",
-			"url": "http://feed.danj.ca/2017/09/03/moving-from-winnipeg.html"
 		}
 		
 	]
