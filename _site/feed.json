@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://danj.micro.blog/2017/09/30/so-wait-is.html",
+	      	
+			"content_html": "<p>So… wait. Is the difference real, or only in your imagination? 🤔</p>\n\n<p><img src=\"http://feed.danj.ca/uploads/2017/9325280669.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-09-30T16:43:00+10:00",
+			"url": "http://feed.danj.ca/2017/09/30/so-wait-is.html"
+		},
+		
+		{
 			"id": "http://danj.micro.blog/2017/09/17/i-remember-you.html",
 	      	
 			"content_html": "<blockquote>\n  <p>I remember you well in the Chelsea Hotel / You were famous, your heart was a legend / You told me again you prefer handsome men / But for me you would make an exception </p>\n</blockquote>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Moving from Winnipeg to Vancouver it was like, wow, there’s great coffee everywhere!</p>\n\n<p>Must admit, Vancouver’s got nothing on Sydney. #picsofmyfood #☕️ </p>\n\n<p><img src=\"http://feed.danj.ca/uploads/2017/078f430197.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-09-03T10:20:00+10:00",
 			"url": "http://feed.danj.ca/2017/09/03/moving-from-winnipeg.html"
-		},
-		
-		{
-			"id": "http://danj.micro.blog/2017/09/02/that-does-not.html",
-	      	
-			"content_html": "<p>That does not look like a real photograph, I wonder if she actually approved this collaboration or if they did it all in Photoshop? 🤔</p>\n\n<p><img src=\"http://feed.danj.ca/uploads/2017/880d0d213d.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-09-02T22:33:00+10:00",
-			"url": "http://feed.danj.ca/2017/09/02/that-does-not.html"
 		}
 		
 	]
