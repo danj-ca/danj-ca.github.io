@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://danj.micro.blog/2017/10/08/life-does-not.html",
+	      	
+			"content_html": "<blockquote>\n  <p>Life does not promise you stability. IT PROMISES YOU A LABORATORY</p>\n</blockquote>\n\n<p>From <a href=\"https://jamesaltucher.com/2016/04/quit-job-right-way/\">here</a></p>\n",
+			"date_published": "2017-10-08T13:11:00+10:00",
+			"url": "http://feed.danj.ca/2017/10/08/life-does-not.html"
+		},
+		
+		{
 			"id": "http://danj.micro.blog/2017/09/30/the-verb-is.html",
 	      	
 			"content_html": "<blockquote>\n  <p>The verb is writing. The format and medium are new, but the craft is ancient.</p>\n</blockquote>\n\n<p>From <a href=\"https://daringfireball.net/2009/03/obsession_times_voice\">one of my all-time favourite pieces of inspiration</a>.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Broken link that previous post: <a href=\"https://micro.blog\">micro.blog</a></p>\n\n<p>You can see this post has a canonical URL at a domain I control: danj.ca. So I can make quick, Twitter/Instagram-like posts from my own, and they can be syndicated here, but the content is mine.</p>\n",
 			"date_published": "2017-09-03T16:08:00+10:00",
 			"url": "http://feed.danj.ca/2017/09/03/broken-link-that.html"
-		},
-		
-		{
-			"id": "http://danj.micro.blog/2017/09/03/so-among-the.html",
-	      	
-			"content_html": "<p>So among the reasons I’m no Facebook fan is my desire to control and own the words I publish and share on the internet. I’m a supporter of the <a href=\"https://indieweb.org/\">IndieWeb</a>, but, then again, I can build and host my own websites, so it’s easy to be.</p>\n\n<p>Here’s a tool that makes owning your content a bit more accessible: [micro.blog][]. I backed the Kickstarter and am playing around with the service.</p>\n",
-			"date_published": "2017-09-03T15:47:00+10:00",
-			"url": "http://feed.danj.ca/2017/09/03/so-among-the.html"
 		}
 		
 	]
