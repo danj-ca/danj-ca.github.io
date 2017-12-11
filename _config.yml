@@ -22,7 +22,7 @@ relative_permalinks: false
 author: "Dan J"
 name: "Dan J"
 gravatar_hash: "0b279fd1932abe22bfa30136813fe79c"
-avatar: "https://www.gravatar.com/avatar/0b279fd1932abe22bfa30136813fe79c?s=160"
+avatar: "https://micro.blog/danj/avatar.jpg"
 full_name: "Dan J"
 bio: ""
 twitter_username: ""
@@ -31,3 +31,4 @@ instagram_username: ""
 paginate: 20
 paginate_path: "/page/:num/"
 timezone: "Pacific/Yap"
+site_id: ["SITE_ID"]
