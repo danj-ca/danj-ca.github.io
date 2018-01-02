@@ -1,16 +1,24 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Dan J",
-	"home_page_url": "http://feed.danj.ca/",
-	"feed_url": "http://feed.danj.ca/feed.json",
+	"home_page_url": "https://feed.danj.ca/",
+	"feed_url": "https://feed.danj.ca/feed.json",
 	"items": [
+		
+		{
+			"id": "http://danj.micro.blog/2018/01/02/reboot-put-this.html",
+	      	
+			"content_html": "<p><strong>Reboot:</strong> Put this app on my iPad, let’s play with it some more.</p>\n",
+			"date_published": "2018-01-02T20:26:00+10:00",
+			"url": "https://feed.danj.ca/2018/01/02/reboot-put-this.html"
+		},
 		
 		{
 			"id": "http://danj.micro.blog/2017/10/08/life-does-not.html",
 	      	
 			"content_html": "<blockquote>\n  <p>Life does not promise you stability. IT PROMISES YOU A LABORATORY</p>\n</blockquote>\n\n<p>From <a href=\"https://jamesaltucher.com/2016/04/quit-job-right-way/\">here</a></p>\n",
 			"date_published": "2017-10-08T13:11:00+10:00",
-			"url": "http://feed.danj.ca/2017/10/08/life-does-not.html"
+			"url": "https://feed.danj.ca/2017/10/08/life-does-not.html"
 		},
 		
 		{
@@ -18,7 +26,7 @@
 	      	
 			"content_html": "<blockquote>\n  <p>The verb is writing. The format and medium are new, but the craft is ancient.</p>\n</blockquote>\n\n<p>From <a href=\"https://daringfireball.net/2009/03/obsession_times_voice\">one of my all-time favourite pieces of inspiration</a>.</p>\n",
 			"date_published": "2017-09-30T18:43:00+10:00",
-			"url": "http://feed.danj.ca/2017/09/30/the-verb-is.html"
+			"url": "https://feed.danj.ca/2017/09/30/the-verb-is.html"
 		},
 		
 		{
@@ -26,7 +34,7 @@
 	      	
 			"content_html": "<p>So… wait. Is the difference real, or only in your imagination? 🤔</p>\n\n<p><img src=\"http://feed.danj.ca/uploads/2017/9325280669.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-09-30T16:43:00+10:00",
-			"url": "http://feed.danj.ca/2017/09/30/so-wait-is.html"
+			"url": "https://feed.danj.ca/2017/09/30/so-wait-is.html"
 		},
 		
 		{
@@ -34,7 +42,7 @@
 	      	
 			"content_html": "<blockquote>\n  <p>I remember you well in the Chelsea Hotel / You were famous, your heart was a legend / You told me again you prefer handsome men / But for me you would make an exception </p>\n</blockquote>\n",
 			"date_published": "2017-09-17T21:59:00+10:00",
-			"url": "http://feed.danj.ca/2017/09/17/i-remember-you.html"
+			"url": "https://feed.danj.ca/2017/09/17/i-remember-you.html"
 		},
 		
 		{
@@ -42,7 +50,7 @@
 	      	
 			"content_html": "<p>Have I been listening to The Fame Monster while drinking wine all evening?</p>\n\n<p>You’re goddamn right I have. </p>\n",
 			"date_published": "2017-09-08T20:46:00+10:00",
-			"url": "http://feed.danj.ca/2017/09/08/have-i-been.html"
+			"url": "https://feed.danj.ca/2017/09/08/have-i-been.html"
 		},
 		
 		{
@@ -50,7 +58,7 @@
 	      	
 			"content_html": "<p>When you’re feeling low, it’s amazing what your first meal &amp; coffee of the day can do. </p>\n\n<p>This is why the first thing elderly-mother stereotypes ask is always, “have you eaten?”</p>\n",
 			"date_published": "2017-09-07T09:57:00+10:00",
-			"url": "http://feed.danj.ca/2017/09/07/when-youre-feeling.html"
+			"url": "https://feed.danj.ca/2017/09/07/when-youre-feeling.html"
 		},
 		
 		{
@@ -58,7 +66,7 @@
 	      	
 			"content_html": "<p>Hmm! Looks like micro.blog <em>does not</em> always include the canonical URL when cross-posting to fbook. Troublesome. Well, this is a work in progress. Will keep fiddling. </p>\n",
 			"date_published": "2017-09-03T16:35:00+10:00",
-			"url": "http://feed.danj.ca/2017/09/03/hmm-looks-like.html"
+			"url": "https://feed.danj.ca/2017/09/03/hmm-looks-like.html"
 		},
 		
 		{
@@ -66,7 +74,7 @@
 	      	
 			"content_html": "<p>If this topic interests you, and assuming fbook even shows you this post (<em>spit</em>), let me know. Happy to discuss. :)</p>\n",
 			"date_published": "2017-09-03T16:10:00+10:00",
-			"url": "http://feed.danj.ca/2017/09/03/if-this-topic.html"
+			"url": "https://feed.danj.ca/2017/09/03/if-this-topic.html"
 		},
 		
 		{
@@ -74,15 +82,7 @@
 	      	
 			"content_html": "<p>I like that, because if one of those advertising companies goes out of business, or just plain decides my post doesn’t fit their algorithm, I’ve still got a link I can send anyone and they can go look at it.</p>\n\n<p>This is why phrases like the “open web” and “net neutrality” matter.</p>\n",
 			"date_published": "2017-09-03T16:09:00+10:00",
-			"url": "http://feed.danj.ca/2017/09/03/i-like-that.html"
-		},
-		
-		{
-			"id": "http://danj.micro.blog/2017/09/03/broken-link-that.html",
-	      	
-			"content_html": "<p>Broken link that previous post: <a href=\"https://micro.blog\">micro.blog</a></p>\n\n<p>You can see this post has a canonical URL at a domain I control: danj.ca. So I can make quick, Twitter/Instagram-like posts from my own, and they can be syndicated here, but the content is mine.</p>\n",
-			"date_published": "2017-09-03T16:08:00+10:00",
-			"url": "http://feed.danj.ca/2017/09/03/broken-link-that.html"
+			"url": "https://feed.danj.ca/2017/09/03/i-like-that.html"
 		}
 		
 	]
