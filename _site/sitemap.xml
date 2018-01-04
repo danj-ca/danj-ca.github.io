@@ -3,6 +3,21 @@
   
     
     <url>
+      <loc>https://feed.danj.ca/2018/01/04/its-hard-to.html/</loc>
+      
+        <lastmod>2018-01-04T20:09:00+10:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.7</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>https://feed.danj.ca/2018/01/02/reboot-put-this.html/</loc>
       
         <lastmod>2018-01-02T20:26:00+10:00</lastmod>
@@ -279,7 +294,7 @@
     <url>
       <loc>https://feed.danj.ca/feed.xml</loc>
       
-        <lastmod>2018-01-02T20:26:50+10:00</lastmod>
+        <lastmod>2018-01-04T20:09:23+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -294,7 +309,7 @@
     <url>
       <loc>https://feed.danj.ca/</loc>
       
-        <lastmod>2018-01-02T20:26:50+10:00</lastmod>
+        <lastmod>2018-01-04T20:09:23+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -311,7 +326,7 @@
     <url>
       <loc>https://feed.danj.ca/rsd.xml</loc>
       
-        <lastmod>2018-01-02T20:26:50+10:00</lastmod>
+        <lastmod>2018-01-04T20:09:23+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -328,7 +343,7 @@
     <url>
       <loc>https://feed.danj.ca/about/</loc>
       
-        <lastmod>2018-01-02T20:26:50+10:00</lastmod>
+        <lastmod>2018-01-04T20:09:23+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
