@@ -3,6 +3,21 @@
   
     
     <url>
+      <loc>https://feed.danj.ca/2018/01/05/people-say-that.html/</loc>
+      
+        <lastmod>2018-01-05T21:43:00+10:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.7</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>https://feed.danj.ca/2018/01/05/there-are-many.html/</loc>
       
         <lastmod>2018-01-05T21:40:00+10:00</lastmod>
@@ -324,7 +339,7 @@
     <url>
       <loc>https://feed.danj.ca/feed.xml</loc>
       
-        <lastmod>2018-01-05T21:40:33+10:00</lastmod>
+        <lastmod>2018-01-05T21:43:33+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -339,7 +354,7 @@
     <url>
       <loc>https://feed.danj.ca/</loc>
       
-        <lastmod>2018-01-05T21:40:33+10:00</lastmod>
+        <lastmod>2018-01-05T21:43:33+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -356,7 +371,7 @@
     <url>
       <loc>https://feed.danj.ca/rsd.xml</loc>
       
-        <lastmod>2018-01-05T21:40:33+10:00</lastmod>
+        <lastmod>2018-01-05T21:43:33+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -373,7 +388,7 @@
     <url>
       <loc>https://feed.danj.ca/page/2/</loc>
       
-        <lastmod>2018-01-05T21:40:33+10:00</lastmod>
+        <lastmod>2018-01-05T21:43:33+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -388,7 +403,7 @@
     <url>
       <loc>https://feed.danj.ca/about/</loc>
       
-        <lastmod>2018-01-05T21:40:33+10:00</lastmod>
+        <lastmod>2018-01-05T21:43:33+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
