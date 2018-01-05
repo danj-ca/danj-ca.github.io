@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://danj.micro.blog/2018/01/05/people-say-that.html",
+	      	
+			"content_html": "<blockquote>\n  <p>People say that what we are seeking is a meaning for life. I don’t think this is what we’re really seeking. I think what we’re seeking is an experience of being alive. </p>\n</blockquote>\n\n<p>—JOSEPH CAMPBELL, <em>The Power of Myth</em> #quotation</p>\n",
+			"date_published": "2018-01-05T21:43:00+10:00",
+			"url": "https://feed.danj.ca/2018/01/05/people-say-that.html"
+		},
+		
+		{
 			"id": "http://danj.micro.blog/2018/01/05/there-are-many.html",
 	      	
 			"content_html": "<blockquote>\n  <p>There are many things of which a wise man might wish to be ignorant. </p>\n</blockquote>\n\n<p>—RALPH WALDO EMERSON, on why you should ignore Facebook #quotation</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Have I been listening to The Fame Monster while drinking wine all evening?</p>\n\n<p>You’re goddamn right I have. </p>\n",
 			"date_published": "2017-09-08T20:46:00+10:00",
 			"url": "https://feed.danj.ca/2017/09/08/have-i-been.html"
-		},
-		
-		{
-			"id": "http://danj.micro.blog/2017/09/06/when-youre-feeling.html",
-	      	
-			"content_html": "<p>When you’re feeling low, it’s amazing what your first meal &amp; coffee of the day can do. </p>\n\n<p>This is why the first thing elderly-mother stereotypes ask is always, “have you eaten?”</p>\n",
-			"date_published": "2017-09-07T09:57:00+10:00",
-			"url": "https://feed.danj.ca/2017/09/07/when-youre-feeling.html"
 		}
 		
 	]
