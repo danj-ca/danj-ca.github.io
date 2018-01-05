@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://danj.micro.blog/2018/01/05/there-are-many.html",
+	      	
+			"content_html": "<blockquote>\n  <p>There are many things of which a wise man might wish to be ignorant. </p>\n</blockquote>\n\n<p>—RALPH WALDO EMERSON, on why you should ignore Facebook #quotation</p>\n",
+			"date_published": "2018-01-05T21:40:00+10:00",
+			"url": "https://feed.danj.ca/2018/01/05/there-are-many.html"
+		},
+		
+		{
 			"id": "http://danj.micro.blog/2018/01/05/holy-shit-the.html",
 	      	
 			"content_html": "<p>Holy shit, the App Store; is that an <em>Animal Farm</em> reference?? Rolling deep.</p>\n\n<p><img src=\"http://feed.danj.ca/uploads/2018/71cca1e239.jpg\" width=\"600\" height=\"430\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>When you’re feeling low, it’s amazing what your first meal &amp; coffee of the day can do. </p>\n\n<p>This is why the first thing elderly-mother stereotypes ask is always, “have you eaten?”</p>\n",
 			"date_published": "2017-09-07T09:57:00+10:00",
 			"url": "https://feed.danj.ca/2017/09/07/when-youre-feeling.html"
-		},
-		
-		{
-			"id": "http://danj.micro.blog/2017/09/03/hmm-looks-like.html",
-	      	
-			"content_html": "<p>Hmm! Looks like micro.blog <em>does not</em> always include the canonical URL when cross-posting to fbook. Troublesome. Well, this is a work in progress. Will keep fiddling. </p>\n",
-			"date_published": "2017-09-03T16:35:00+10:00",
-			"url": "https://feed.danj.ca/2017/09/03/hmm-looks-like.html"
 		}
 		
 	]
